@@ -89,6 +89,16 @@
       "source": "registry",
       "testable": false
     },
+    "com.unity.inputsystem@1.13.1": {
+      "name": "com.unity.inputsystem",
+      "displayName": "Input System",
+      "resolvedPath": "C:\\Users\\51swo\\Documents\\GitHub\\E1-Unity-Project\\Library\\PackageCache\\com.unity.inputsystem@e2c83221d2dc",
+      "fingerprint": "e2c83221d2dc3fc990b017cbd3f9d0742649c8a8",
+      "editorCompatibility": "2021.3.0a1",
+      "version": "1.13.1",
+      "source": "registry",
+      "testable": false
+    },
     "com.unity.multiplayer.center@1.0.0": {
       "name": "com.unity.multiplayer.center",
       "displayName": "Multiplayer Center",
